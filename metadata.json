@@ -1,0 +1,5 @@
+{
+  "name": "Stork 23 Pentest Studio",
+  "description": "A local file storage and editing studio for ethical pentesting. It allows you to import, store, view, and export files securely in your browser using IndexedDB.",
+  "requestFramePermissions": []
+}
